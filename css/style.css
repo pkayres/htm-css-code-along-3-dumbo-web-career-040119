@@ -25,8 +25,7 @@ figcaption{
 #logo h2 {
   font-family: 'Elsie Swash Caps' cursive;
 }
-#details a:link {
+#details a:link # details a:visited{
   color: black;
-  text-decoration: none;
-  
+  text-decoration: none;  
 }
